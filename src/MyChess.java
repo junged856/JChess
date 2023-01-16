@@ -221,6 +221,7 @@ public class MyChess {
                     selectedPiece.move(xpos, ypos, SQUARE_WIDTH);
                     ChessUtils.changeTurns();
                 }
+
                 // if the move is invalid, return it to its original square
                 else if (selectedPiece != null){
                     selectedPiece.setX(selectedPiece.getXpos() * 80 + PADDING);
