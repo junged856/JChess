@@ -21,7 +21,7 @@ Solely developed by Edward Jung
 
 <img width="550" alt="Screen Shot 2023-01-16 at 11 51 25 AM" src="https://user-images.githubusercontent.com/109245538/212730216-79e8a27f-b472-4b45-9849-e66c57014764.png">
 
-**Board flipping, currently Black's turn **
+**Board flipping, currently Black's turn**
 
 <img width="550" alt="Screen Shot 2023-01-19 at 12 04 15 PM" src="https://user-images.githubusercontent.com/109245538/213511697-417d2a45-9de4-4978-a598-611f8a472d94.png">
 
