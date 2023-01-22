@@ -3,15 +3,17 @@
 Solely developed by Edward Jung
 
 <h1>Features:</h1>
-<p>- User friendly design, board flipping, prints status of game</p>
-- GUI interface
-- User can reset board whenever they wish
-- Castling
-- Pins
-- En Passant
-- Pawn promotion
-- Checks/Checkmates
-- Enforces legal moves
+<p>- User friendly design</p>
+<p>- Board flipping</p>
+<p>- Prints status of game</p>
+<p>- GUI interface</p>
+<p>- User can reset board whenever they wish</p>
+<p>- Castling</p>
+<p>- Pins</p>
+<p>- En Passant</p>
+<p>- Pawn promotion</p>
+<p>- Checks/Checkmates</p>
+<p>- Enforces legal moves</p>
 
 <h1>Previews:</h1>
 
