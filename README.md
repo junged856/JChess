@@ -2,7 +2,7 @@
 
 Solely developed by Edward Jung
 
-Features: 
+<h1>Features:</h1>
 - User friendly design, board flipping, prints status of game
 - GUI interface
 - User can reset board whenever they wish
@@ -13,7 +13,7 @@ Features:
 - Checks/Checkmates
 - Enforces legal moves
 
-Previews:
+<h1>Previews:</h1>
 
 App when first opened
 
