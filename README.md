@@ -1,6 +1,6 @@
 # JChess
 
-Personal programming project made by Edward Jung
+Solely developed by Edward Jung
 
 Features: 
 - User friendly design, board flipping, prints status of game
