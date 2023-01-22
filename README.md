@@ -1,6 +1,6 @@
 # JChess
 
-Solely developed by Edward Jung
+Developed by Edward Jung
 
 <h1>Features:</h1>
 <p>- User friendly design</p>
