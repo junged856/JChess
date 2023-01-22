@@ -3,7 +3,7 @@
 Solely developed by Edward Jung
 
 <h1>Features:</h1>
-- User friendly design, board flipping, prints status of game
+<p>- User friendly design, board flipping, prints status of game</p>
 - GUI interface
 - User can reset board whenever they wish
 - Castling
