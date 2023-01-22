@@ -17,7 +17,7 @@ Solely developed by Edward Jung
 
 <h1>Previews:</h1>
 
-App when first opened
+<b>App when first opened</b>
 
 <img width="550" alt="Screen Shot 2023-01-16 at 11 51 25 AM" src="https://user-images.githubusercontent.com/109245538/212730216-79e8a27f-b472-4b45-9849-e66c57014764.png">
 
