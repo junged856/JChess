@@ -5,15 +5,13 @@ Developed by Edward Jung
 <h1>Features:</h1>
 <p>- User friendly design</p>
 <p>- Board flipping</p>
-<p>- Prints status of game</p>
-<p>- GUI interface</p>
-<p>- User can reset board whenever they wish</p>
+<p>- Game Status Detection</p>
 <p>- Castling</p>
 <p>- Pins</p>
 <p>- En Passant</p>
 <p>- Pawn promotion</p>
 <p>- Checks/Checkmates</p>
-<p>- Enforces legal moves</p>
+<p>- Legal move enforcement</p>
 
 <h1>Previews:</h1>
 
@@ -24,10 +22,6 @@ Developed by Edward Jung
 **Board flipping, currently Black's turn**
 
 <img width="550" alt="Screen Shot 2023-01-19 at 12 04 15 PM" src="https://user-images.githubusercontent.com/109245538/213511697-417d2a45-9de4-4978-a598-611f8a472d94.png">
-
-**White under check**
-
-<img width="550" alt="Screen Shot 2023-01-19 at 12 06 08 PM" src="https://user-images.githubusercontent.com/109245538/213512135-32fb5d8e-8407-46b9-a442-678cd2500d28.png">
 
 **Checkmate by Black**
 
