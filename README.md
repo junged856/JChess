@@ -3,12 +3,8 @@
 Developed by Edward Jung
 
 <h1>Features:</h1>
-<p>- Castling</p>
-<p>- Pins</p>
-<p>- En Passant</p>
-<p>- Pawn promotion</p>
-<p>- Checks/Checkmates</p>
-<p>- Legal move enforcement</p>
+<p>- Legal move enforcement (Castling, Pins, En Passant, Pawn promotion, Checks/Checkmates)</p>
+<p>- User friendly design: board flipping, game status detection, manual game reset option</p>
 
 <h1>Previews:</h1>
 
