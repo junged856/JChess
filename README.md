@@ -3,9 +3,6 @@
 Developed by Edward Jung
 
 <h1>Features:</h1>
-<p>- User friendly design</p>
-<p>- Board flipping</p>
-<p>- Game Status Detection</p>
 <p>- Castling</p>
 <p>- Pins</p>
 <p>- En Passant</p>
