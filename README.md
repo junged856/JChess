@@ -5,6 +5,7 @@ Developed by Edward Jung
 <h1>Features:</h1>
 <p>- Legal move enforcement (Castling, Pins, En Passant, Pawn promotion, Checks/Checkmates)</p>
 <p>- User friendly design: board flipping, game status detection, manual game reset option</p>
+<p>- Google-inspired stylized UI </p>
 
 <h1>Previews:</h1>
 
